@@ -71,6 +71,7 @@ There is a document similar to this one for each service (and their relevant pro
 - [Leaderboard service](services/leaderboards.md)
 - [Score service](services/scores.md)
 - [API service](services/api.md)
+- [Beatmaps service](services/beatmaps.md)
 
 # The end
 
