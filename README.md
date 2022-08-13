@@ -1,5 +1,8 @@
+# RealistikOsu infrastructure plans
+
 # Table of contents
 
+- [RealistikOsu infrastructure plans](#realistikosu-infrastructure-plans)
 - [Table of contents](#table-of-contents)
 - [What are the motives behind the new infrastructure?](#what-are-the-motives-behind-the-new-infrastructure)
 - [What does this new infrastructure entail?](#what-does-this-new-infrastructure-entail)
