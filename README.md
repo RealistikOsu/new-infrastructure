@@ -72,6 +72,7 @@ There is a document similar to this one for each service (and their relevant pro
 - [Score service](services/scores.md)
 - [API service](services/api.md)
 - [Beatmaps service](services/beatmaps.md)
+- [Beatmap submission service](services/submission.md)
 
 # The end
 
